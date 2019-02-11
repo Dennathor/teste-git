@@ -6,7 +6,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		ArrayList <int> lista = new ArrayList<>();
+		ArrayList <Integer> lista = new ArrayList<>();
 
 	}
 
